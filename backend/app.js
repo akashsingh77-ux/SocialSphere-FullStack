@@ -19,7 +19,7 @@ store.on("error", (err) => console.error("Session store error:", err));
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://YOUR-VERCEL-APP.vercel.app"
+    "https://social-sphere-full-stack.vercel.app"
   ],
   credentials: true
 }));
