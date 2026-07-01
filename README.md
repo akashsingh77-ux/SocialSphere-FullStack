@@ -65,11 +65,10 @@ The goal of this project is to simulate a real-world social media platform with 
 
 ### Frontend
 
-Coming Soon (Vercel)
-
+(https://social-sphere-full-stack-1l4d.vercel.app)
 ### Backend
 
-Coming Soon (Render)
+(https://socialsphere-fullstack.onrender.com/)
 
 ---
 
